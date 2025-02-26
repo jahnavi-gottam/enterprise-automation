@@ -139,7 +139,7 @@ Ensuring the reliability and efficiency of the **Enterprise Automation System** 
 - **Predictive Insights** – Uses AI analytics to predict trends and optimize business workflows.  
 - **Self-Healing Systems** – Automatically detects and resolves process inefficiencies without human intervention.
 
- ![Description](automation.png)   
+ ![Description](automation.jpg)   
 
 
 
