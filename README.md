@@ -179,6 +179,14 @@ To contribute to the **Intelligent Process Automation (IPA)** project, follow th
    git push origin feature-new-ai-module
 
 
+## 📚 References & Acknowledgments
+
+We acknowledge the valuable contributions of various research papers, tools, and open-source projects that have supported the development of this **Intelligent Process Automation (IPA)** project. Below are key references:
+
+### 📄 Research Papers & Articles  
+- **"Advancements in Intelligent Process Automation"** –[intelligent-automation/](https://www.happiestminds.com/insights/intelligent-automation/url)
+- **"AI-Driven Business Process Automation"** – [ai-in-business-process-automation-benefits-use-cases ](https://www.rapidinnovation.io/post/ai-in-business-process-automation-benefits-use-cases/url)
+
 
   <p align="center">
     <img src="auto.png" width="400">
