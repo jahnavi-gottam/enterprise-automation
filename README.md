@@ -143,6 +143,16 @@ Ensuring the reliability and efficiency of the **Enterprise Automation System** 
   <img src="automation.jpg" alt="Description" width="500" height="300">
 </p>
 
+## Contribution Guidelines
+
+If you would like to contribute to the **Intelligent Process Automation (IPA)** project, please follow these guidelines to maintain consistency and quality:  
+### 1. Fork & Clone the Repository
+- Click the **Fork** button to create a copy of the repository on your GitHub account.
+- Clone the repository to your local machine using:  
+  ```sh
+  git clone https://github.com/your-username/ipa-project.git
+  cd ipa-project
+
 
 
 
