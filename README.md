@@ -21,7 +21,7 @@ With the implementation of IPA, organizations can significantly reduce the time 
 <h2>Problem Statement</h2>
 Enterprise: Intelligent Process Automation, AI solutions that can automate repetitive and time-consuming business processes, such as data entry, document processing, and customer service interactions.
 
-##AI-Powered Process Automation- Automates repetitive tasks using AI, NLP, and ML.  
+## AI-Powered Process Automation- Automates repetitive tasks using AI, NLP, and ML.  
 ### Features
 - **Intelligent Data Processing**: Extracts, validates, and processes structured & unstructured data.
 - **Smart Document Understanding**: OCR & NLP-based document processing for invoices, forms, etc.
@@ -102,7 +102,9 @@ Ensuring the reliability and efficiency of the **Enterprise Automation System** 
 - **Threat Detection**: Integrating AI-driven security measures to detect and mitigate potential cyber threats in real time.
 - **Regular Security Audits**: Conducting periodic security assessments to identify and fix vulnerabilities.
 
-<h2>screenshots</h2>
+## screenshots
+![Description](my-image.png)
+
 
   
 
