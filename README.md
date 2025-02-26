@@ -152,7 +152,23 @@ If you would like to contribute to the **Intelligent Process Automation (IPA)** 
   git clone git@github.com:jahnavi-gottam/enterprise-automation.git
   cd enterprise-automation
   git checkout -b feature-new-ai-module
-### 6. Submitting a Pull Request (PR)
+  ### Contribution Guidelines
+
+#### 2. Follow Coding Standards
+- Maintain consistent indentation, variable naming, and commenting.
+- Use proper commit messages describing the changes made.
+- Keep code modular and reusable for easy understanding.
+
+#### 3. AI Model Contributions
+- Ensure that ML models are properly trained and tested before submission.
+- Document the datasets, preprocessing methods, and algorithms used.
+- Validate AI models using appropriate metrics (e.g., accuracy, F1-score).
+
+#### 4.Reporting Issues & Bugs
+- Create an issue in the GitHub repository with a clear title and description.
+- Provide screenshots, error logs, and reproduction steps when reporting bugs.
+
+### 5. Submitting a Pull Request (PR)
 To contribute to the **Intelligent Process Automation (IPA)** project, follow these steps to submit a Pull Request:
 
 1. **Commit your changes** and ensure everything is properly formatted.
