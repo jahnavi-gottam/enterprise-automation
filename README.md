@@ -14,7 +14,6 @@ With the implementation of IPA, organizations can significantly reduce the time 
 - **Roadmap (Future Enhancements)**
 - **Impact & Benefits**
 - **Contribution Guidelines**
-- **License**
 - **Screenshots)**
 - **References & Acknowledgments**
 
@@ -153,9 +152,23 @@ If you would like to contribute to the **Intelligent Process Automation (IPA)** 
   git clone git@github.com:jahnavi-gottam/enterprise-automation.git
   cd enterprise-automation
   git checkout -b feature-new-ai-module
-git add .
-git commit -m "Added AI-driven document processing module"
-git push origin feature-new-ai-module
+### 6. Submitting a Pull Request (PR)
+To contribute to the **Intelligent Process Automation (IPA)** project, follow these steps to submit a Pull Request:
+
+1. **Commit your changes** and ensure everything is properly formatted.
+2. **Push your changes** to your feature branch:
+   ```sh
+   git add .
+   git commit -m "Added AI-driven document processing module"
+   git push origin feature-new-ai-module
+
+
+    <p align="center">
+  <img src="auto.png" alt="Description" width="500" height="300">
+</p>
+
+   
+
 
 
 
