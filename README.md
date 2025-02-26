@@ -150,8 +150,8 @@ If you would like to contribute to the **Intelligent Process Automation (IPA)** 
 - Click the **Fork** button to create a copy of the repository on your GitHub account.
 - Clone the repository to your local machine using:  
   ```sh
-  git clone https://github.com/your-username/ipa-project.git
-  cd ipa-project
+  git clone git@github.com:jahnavi-gottam/enterprise-automation.git
+  cd enterprise-automation
 
 
 
