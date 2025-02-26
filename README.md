@@ -163,8 +163,9 @@ To contribute to the **Intelligent Process Automation (IPA)** project, follow th
    git push origin feature-new-ai-module
 
 
-    <p align="center">
-  <img src="auto.png" alt="Description" width="500" height="300">
+
+  <p align="center">
+    <img src="auto.png" width="400">
 </p>
 
    
