@@ -1,4 +1,4 @@
-#Enterprise: Intelligent Process Automation
+Enterprise: Intelligent Process Automation
                                                            
 <h3>Intelligent Process Automation (IPA) is an AI-driven solution designed to automate repetitive and time-consuming business processes. This project focuses on automating tasks such as data entry, document processing, and customer service interactions. It is intended for businesses and enterprises looking to streamline their operations, reduce manual effort, and improve efficiency through advanced AI technologies.With the implementation of IPA, organizations can significantly reduce the time spent on routine tasks, allowing employees to focus on more strategic and value-added activities. The AI solutions provided by this project are capable of learning and adapting to various processes, ensuring continuous improvement and optimization.</h3>
 
@@ -21,6 +21,7 @@ Enterprise: Intelligent Process Automation, AI solutions that can automate repet
 <h2>Features</h2>
 
 AI-Powered Process Automation** - Automates repetitive tasks using AI, NLP, and ML.  
+### Features
 - **Intelligent Data Processing**: Extracts, validates, and processes structured & unstructured data.
 - **Smart Document Understanding**: OCR & NLP-based document processing for invoices, forms, etc.
 - **End-to-End Workflow Automation**: Streamlines business operations with RPA & AI bots.
@@ -30,6 +31,7 @@ AI-Powered Process Automation** - Automates repetitive tasks using AI, NLP, and 
 - **AI Chatbots & Virtual Assistants**: Automates customer interactions with NLP-based chatbots.
 - **Auto-Healing & Self-Learning Systems**: Continuously improves processes with AI-driven learning.
 - **Real-Time Monitoring & Reporting**: Dashboards and analytics for tracking business performance.
+
 <h2>Tech Stack & Tools Used</h2>
 
 - **Frontend:** React.js, Angular, Bootstrap  
