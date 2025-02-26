@@ -152,6 +152,11 @@ If you would like to contribute to the **Intelligent Process Automation (IPA)** 
   ```sh
   git clone git@github.com:jahnavi-gottam/enterprise-automation.git
   cd enterprise-automation
+  git checkout -b feature-new-ai-module
+git add .
+git commit -m "Added AI-driven document processing module"
+git push origin feature-new-ai-module
+
 
 
 
