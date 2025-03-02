@@ -71,6 +71,22 @@ Our **Enterprise Automation System** integrates **Artificial Intelligence (AI), 
 * Monitor performance, retrain models periodically, and optimize for efficiency.
 
   ## solution to the problem statement
+  ![Description](dashboard.PNG)
+
+  ![Description](dataentry.PNG)
+
+   ![Description](aiassitent.PNG)
+
+
+  ## Output
+
+   ![Description](processdoc.PNG)
+
+  
+
+
+
+  
  
 
   
